@@ -95,12 +95,14 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
+  margin-bottom: 0;
 } 
 
 #back {
   background: rgba(247,211,27,1);
   text-align: center;
   padding: 130px 35px 35px;
+  margin-top: 0;
 }
 
 #title-box {
